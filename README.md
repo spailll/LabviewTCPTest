@@ -1,4 +1,3 @@
-"# LabviewTCPTest" 
 <h1>Basic LabView program to send and receive data for one sensor over TCP</h1>
 
 <h2>This program involves two VIs, the Send.vi and Read.vi</h2>
